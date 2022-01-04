@@ -13,3 +13,8 @@
 
 ### 하계 국내 인턴십
 - 녹음을 이용한 채팅 서비스 | 디자인 및 개발 | (주) 에핀
+
+
+<div align=center>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77r77ung&count_bg=%23FFADC5&title_bg=%239999CC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
