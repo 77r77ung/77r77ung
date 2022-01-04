@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=77r77ung&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=77r77ung&fontSize=70)
 
 ## 2021
 ### 시각 장애우를 위한 딥러닝 및 컴퓨터 비전 알고리즘 기반의 유통기한 자동 알림 챗봇 개발 연구
