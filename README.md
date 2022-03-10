@@ -29,9 +29,10 @@
 <br/>
 
 <div align=center>
-  <a href = 'https://github.com/77r77ung'> </a>
+  <a href = 'https://github.com/77r77ung'>
     <img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=77r77ung&theme=buefy&show_icons=true"/>
     <img height = '180em' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=77r77ung"/>
+  </a>
 </div>
   
 <br/>
