@@ -15,11 +15,12 @@
 - 녹음을 이용한 채팅 서비스 | 디자인 및 개발 | (주) 에핀
 
 <br/><br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77r77ung&count_bg=%23B5C9FF&title_bg=%23B1E5A3&icon=instacart.svg&icon_color=%23FF9300&title=hello%2C+world%21&edge_flat=false"/></a>
 
-<br/>
 
 <div align=center>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77r77ung&count_bg=%23B5C9FF&title_bg=%23B1E5A3&icon=instacart.svg&icon_color=%23FF9300&title=hello%2C+world%21&edge_flat=false"/></a>
+<br/>
+    
     <a href = 'https://github.com/77r77ung'>
     <img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=77r77ung&theme=buefy&show_icons=true"/>
     <img height = '180em' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=77r77ung"/>
