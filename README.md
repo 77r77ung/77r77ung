@@ -17,6 +17,7 @@
 <br/><br/>
 
 <div align=center>
+  <p>🛠 Techs that I've used at least once 🛠</p>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30' width = '90'/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30' width = '90'/>
