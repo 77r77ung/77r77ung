@@ -14,6 +14,7 @@
 ### 하계 국내 인턴십
 - 녹음을 이용한 채팅 서비스 | 디자인 및 개발 | (주) 에핀
 
+<br/><br/>
 
 <div align=center>
     <a href = 'https://github.com/77r77ung'>
