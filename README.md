@@ -17,6 +17,16 @@
 <br/><br/>
 
 <div align=center>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30' width = '90'/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30' width = '90'/>
+    <img src="https://img.shields.io/badge/C-F26822?style=flat-square&logo=C&logoColor=white" height = '30' width = '90'/>
+    <img src="https://img.shields.io/badge/JavaScirpt-007396?style=flat-square&logo=JavaScript&logoColor=white" height = '30' width = '90'/>
+  </p>
+</div>
+
+<br/>
+<div align=center>
      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77r77ung&count_bg=%23B5C9FF&title_bg=%23B1E5A3&icon=instacart.svg&icon_color=%23FF9300&title=hello%2C+world%21&edge_flat=false"/></a>
 </div>
 
