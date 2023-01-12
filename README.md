@@ -43,10 +43,12 @@
   ```
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/>
+- - -
+<br/></br>
 
 <div align=center>
-  <p> <mark>🛠 Techs 🛠</mark></p>
+  <p> 🛠 Techs 🛠 </p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -76,6 +78,6 @@
 <br/>
 
 <div align=center>
-  <p> 🌐 </p>
+  <p> 🌐 link 🌐 </p>
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
 </div>
