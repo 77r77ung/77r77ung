@@ -5,7 +5,7 @@
 
 ## 🎓 In-school competitions and activities 🎓
 
-  ### 🗓 2022 📑
+  ### 🗓 2022 🗓
   
   #### 다인실환자를 위한 EEG기반 서빙로봇 간병서비스 개발
   ```
@@ -13,7 +13,7 @@
   2022 아이디어 경진대회 | 동서대학교 SW중심사업단 주최 | 우수상
   ```
 
-  ### 🗓 2021 📑
+  ### 🗓 2021 🗓
   
   #### 시각 장애우를 위한 딥러닝 및 컴퓨터 비전 알고리즘 기반의 유통기한 자동 알림 챗봇 개발 연구
   ```
@@ -76,6 +76,6 @@
 <br/>
 
 <div align=center>
-  <a href = 'https://www.instagram.com/https://www.instagram.com/o.cao_/'>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/https://www.instagram.com/o.cao_/" height = '30' width = '130'/></a>&nbsp
+  <p> 🌐 </p>
+  <a href="https://velog.io/@2625k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=E4405F&link=https://velog.io/@2625k"/></a> 
 </div>
