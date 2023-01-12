@@ -7,12 +7,12 @@
 
 ## 🎓 In-school competitions and activities
 
+<div align=center>
 
 ### 📑 2022
 ####
 
 ### 📑 2021
-<div align=center>
   
   #### 시각 장애우를 위한 딥러닝 및 컴퓨터 비전 알고리즘 기반의 유통기한 자동 알림 챗봇 개발 연구
   ```
