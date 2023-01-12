@@ -5,7 +5,7 @@
 
 ## 🎓 In-school competitions and activities 🎓
 
-  ### 📑 2022
+  ### 🗓 2022 📑
   
   #### 다인실환자를 위한 EEG기반 서빙로봇 간병서비스 개발
   ```
@@ -13,7 +13,7 @@
   2022 아이디어 경진대회 | 동서대학교 SW중심사업단 주최 | 우수상
   ```
 
-  ### 📑 2021
+  ### 🗓 2021 📑
   
   #### 시각 장애우를 위한 딥러닝 및 컴퓨터 비전 알고리즘 기반의 유통기한 자동 알림 챗봇 개발 연구
   ```
@@ -46,13 +46,15 @@
 <br/><br/><br/><br/>
 
 <div align=center>
-  <p>🛠 Techs that I've used at least once 🛠</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30' width = '90'/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30' width = '90'/>
-    <img src="https://img.shields.io/badge/C-F26822?style=flat-square&logo=C&logoColor=white" height = '30' width = '90'/>
-    <img src="https://img.shields.io/badge/JavaScirpt-007396?style=flat-square&logo=JavaScript&logoColor=white" height = '30' width = '90'/>
-  </p>
+  <p>🛠 Techs 🛠</p>  
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-#339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
 <br/><br/>
