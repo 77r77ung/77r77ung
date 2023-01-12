@@ -8,39 +8,54 @@
   ### 🗓 2022 🗓
   
   #### 다인실환자를 위한 EEG기반 서빙로봇 간병서비스 개발
+  ##### Development of EEG-based Serving Robot Nursing Service for Multiple Room Patients
   ```
   이소연, 최봉준, 문미경. (2022). 다인실환자를 위한 EEG기반 서빙로봇 간병서비스 개발. 한국컴퓨터정보학회 학술발표논문집 , 30(2), 649-650
+  Lee So Yeon, Choi Bong Joon, Moon Mi Kyung. (2022). Development of EEG-based serving robot nursing service for multiple room patients. Academic Presentation Paper Collection of the Korean Computer Information Society, 30(2), 649-650
   2022 아이디어 경진대회 | 동서대학교 SW중심사업단 주최 | 우수상
+  2022 Idea Competition | Hosted by Dongseo University SW-centered Project Group | Excellence Award
   ```
 
   ### 🗓 2021 🗓
   
   #### 시각 장애우를 위한 딥러닝 및 컴퓨터 비전 알고리즘 기반의 유통기한 자동 알림 챗봇 개발 연구
+  ##### Development of Automatic Notification Chatbot Based on Deep Learning and Computer Vision Algorithm for the Blind
   ```
   학부생 연구 프로그램(URP)| 한국과학창의재단 & 교육과학기술부 주최
+  Undergraduate Research Program (URP) | Hosted by the Korea Science and Creativity Foundation & Ministry of Education, Science and Technology
   2021 동서인 AI·SW 경진대회 | 동서대학교 SW중심사업단 주최 | 장려상
+  2021 Dongseo AI and SW Competition | Hosted by the SW Central Business Group of Dongseo University | Encouragement Award
+  ```
+  
+  #### 딥페이크 기술을 활용한 동화 미디어 제작 시스템
+  ##### Children's story Media Production System Using Deep Fake Technology
+  ```
+  한국인공지능융합기술학회 | 학생부 논문
+  Korean Association of Artificial Intelligence Convergence Technology | Student Paper
+  https://github.com/eastZoo/Mirror_fairyTale
   ```
 
   #### AI 헬스 트레이너
+  ##### AI Health Trainer
   ```
   쇼미더동서 AI 경진대회 | 동서대학교 SW중심사업단 주최 | 장려상
+  Show Me The Dongseo AI Competition | Hosted by the SW Central Business Group of Dongseo University | Encouragement Award
   ```
 
   #### 온라인 강의 쉐어링
+  ##### Online Lecture Sharing
   ```
   DSU 창업 아이디어 경진대회 | 동서대학교 LINC+ 사업단 주최 | 우수상
+  DSU Startup Idea Contest | Hosted by Dongseo University LINC+ Business Group | Excellence Award
   ```
 
   #### 하계 국내 인턴십
+  ##### Summer Domestic Internship
   ```
   녹음을 이용한 채팅 서비스 | 디자인 및 개발 | (주) 에핀
+  Recording Chat Service | Design and Development | Epin Co., Ltd.
   ```
-
-  #### 딥페이크 기술을 활용한 동화 미디어 제작 시스템
-  ```
-  한국인공지능융합기술학회 | 학생부 논문
-  https://github.com/eastZoo/Mirror_fairyTale
-  ```
+  
 </div>
 
 <br/><br/>
