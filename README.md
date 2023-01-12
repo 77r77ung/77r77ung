@@ -48,7 +48,7 @@
 <br/></br>
 
 <div align=center>
-  <p> 🛠 Techs 🛠 </p>
+  ### 🛠 Techs 🛠
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -60,7 +60,7 @@
 </div>
 
 <div align=center>
-  <p> 🌐 link 🌐 </p>
+  ### 🌐 link 🌐
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
 </div>
 
@@ -81,7 +81,7 @@
 
 
 <div align=center>
-  <p> 🤗 Hello, world 🤗 </p>
+  ### 🤗 Hello, world 🤗 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F77r77ung&count_bg=%23B5C9FF&title_bg=%23B1E5A3&icon=instacart.svg&icon_color=%23FF9300&title=hello%2C+world%21&edge_flat=false"/></a>
 </div>
 
