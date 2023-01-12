@@ -63,7 +63,7 @@
   </br>
   
   ### 🌐 link 🌐
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
+  <a href="https://velog.io/@2625k"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
 </div>
 
 <br/>
