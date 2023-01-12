@@ -59,7 +59,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
-<br/><br/>
+<div align=center>
+  <p> 🌐 link 🌐 </p>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
+</div>
+
+<br/>
+- - -
+<br/>
 
 <div align=center>
   <a href = 'https://github.com/77r77ung'>
@@ -68,7 +75,9 @@
   </a>
 </div>
   
-<br/><br/>
+<br/>
+- - -
+<br/>
 
 <div align=center>
   <p> 🤗 Hello, world 🤗 </p>
@@ -77,7 +86,3 @@
 
 <br/>
 
-<div align=center>
-  <p> 🌐 link 🌐 </p>
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
-</div>
