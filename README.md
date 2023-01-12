@@ -77,5 +77,5 @@
 
 <div align=center>
   <p> 🌐 </p>
-  <a href="https://velog.io/@2625k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=E4405F&link=https://velog.io/@2625k"/></a> 
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997&link=https://velog.io/@2625k"/>
 </div>
